@@ -18,8 +18,7 @@ Esto instalará los node_modules donde estarán los módulos y librerias a usar.
 ## Ejecutando las pruebas ⚙️
 Antes de iniciar el Servidor, debes ejecutar cualquiera de estos Comandos para hacer un Testing de las Funciones y Rutas del Backend:
 
-npm run test
-npm test
+npm run test  o también,  npm test
 
 ## Despliegue 📦
 Una vez pasadas las pruebas del Testing, este guardará los Datos en la Nube de Mongo Atlas, ya que se prueba el método POST y GET.
